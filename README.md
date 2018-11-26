@@ -1,5 +1,6 @@
 # EE-800-project
-# IoT Smart Home Advisor: Kevin W. Lu, Stevens Institute of Technology
+# IoT Smart Home 
+# Advisor: Kevin W. Lu, Stevens Institute of Technology
 # Project Website: https://sites.google.com/view/tc-iot
 
 # Constructed the function modules by GEARMAN in JavaScript
